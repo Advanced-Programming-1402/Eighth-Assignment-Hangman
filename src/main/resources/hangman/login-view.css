@@ -1,0 +1,10 @@
+.textField {
+    -fx-padding: 10px;
+    -fx-background-radius: 25px;
+    -fx-background-color: #FBFFFE;
+    -fx-border-radius: 25px;
+    -fx-border-width: 2px;
+    -fx-border-color: #438A7E;
+    -fx-text-fill: black;
+    -fx-font-size: 14px;
+}
